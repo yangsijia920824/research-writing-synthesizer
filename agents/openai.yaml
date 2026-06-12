@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Writing Synthesizer"
+  short_description: "Turn literature evidence into original research prose"
+  default_prompt: "Use $research-writing-synthesizer to build a traceable writing corpus from these papers, derive the manuscript outline, and synthesize original evidence-grounded prose."
